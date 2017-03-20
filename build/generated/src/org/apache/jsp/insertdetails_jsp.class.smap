@@ -1,0 +1,16 @@
+SMAP
+insertdetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 insertdetails.jsp
+insertdetails.jsp
+*L
+1,283:45
+284,41:329
+324,135:370
+461:508,2
+462,31:510
+494,32:543
+525,33:575
+*E
